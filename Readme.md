@@ -18,4 +18,4 @@ A downloader tool for my favorite webcomic.
 What this does....
 -----------
 
-This downloads the entirety of XKCD from 2012-Present, where Heather Larkin. has now posted 130+ comics.
+This downloads the entirety of Myst from 2012-Present, where Heather Larkin. has now posted 130+ comics.
